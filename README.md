@@ -1,4 +1,4 @@
-asp.net实现二级域名 泛解析+asp.mvc+多店铺
+asp.net实现二级域名
 ======
 本机无法调试，可以在server端 安装dns server
 
